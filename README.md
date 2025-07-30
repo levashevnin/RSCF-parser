@@ -1,7 +1,7 @@
-# RSF Project Data Parsers
+# RSCF Project Data Parsers
 
 ## Project Overview
-This repository contains Python parsers designed to extract and process project data from the Russian Science Foundation (RSF) website. The primary goal is to generate comprehensive project tables for analysis purposes.
+This repository contains Python parsers designed to extract and process project data from the Russian Science Foundation (RSCF) website. The primary goal is to generate comprehensive project tables for analysis purposes.
 
 ## Current Functionality
 The system consists of two main parser modules:
